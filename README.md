@@ -1,4 +1,3 @@
-# Synbase Career and Techical Database
-**State Leadership Conference 2023-2024 Coding and Programming Submission**
-**Vihaan Gowda, Vishal Naveen, Aditya Shukla**
+2023 - 2024 FBLA Coding and Programming Submission
 
+** Download the .py file included in the repository and run with python version 3.11+ installed **
